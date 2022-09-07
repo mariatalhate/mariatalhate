@@ -15,9 +15,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/mariatalhate">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariatalhate&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariatalhate&layout=compact&langs_count=7&theme=aura"/>
+ <a href="https://github.com/mariatalhate">
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mariatalhate&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariatalhate&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div align="center">
