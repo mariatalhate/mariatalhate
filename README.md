@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou a Maria
 - 🌱 Atualmente, estudo Spring e fundamentos de testes de qualidade
-- 👯 Procurar colaborar em projetos na linguagem de Java
+- 👯 Procuro colaborar em projetos na linguagem de Java
 - 💬 Me pergunte qualquer coisa!
 - 📫 Como me contatar: talhatemaria@gmail.com ou +55 27 992713317
 
