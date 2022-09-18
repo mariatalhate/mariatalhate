@@ -1,17 +1,14 @@
 ### Olá! 👋 Eu sou a Maria
-- 🔭 Estou trabalhando na construção de um portifólio backend
-- 🌱 Atualmente, estudo Spring e segurança de aplicações
+- 🌱 Atualmente, estudo Spring e fundamentos de testes de qualidade
 - 👯 Procurar colaborar em projetos na linguagem de Java
 - 💬 Me pergunte qualquer coisa!
 - 📫 Como me contatar: talhatemaria@gmail.com ou +55 27 992713317
 
 ### Hi there! 👋 I'm Maria
-- 🔭 I’m currently working on building a backend portifolio :)
-- 🌱 I’m currently learning Spring and development security
+- 🌱 I’m currently learning Spring and quality assurance fundamentals
 - 👯 I’m looking to collaborate on Java projects
 - 💬 Ask me about anything!
 - 📫 How to reach me: talhatemaria@gmail.com or +55 27 992713317
-- ⚡ Fun fact: I used to work as a veterinary doctor :)
 
 
 <div align="center">
