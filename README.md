@@ -20,8 +20,8 @@
 <div align="center">
 <div style="display: inline_block"><br>
 <img align="center" alt=" Maria-Java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt=" Maria-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="center" alt=" Maria-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt=" Maria-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+
 </div>
 
 ##
