@@ -20,7 +20,8 @@
 <div align="center">
 <div style="display: inline_block"><br>
 <img align="center" alt=" Maria-Java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt=" Maria-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="center" alt=" Maria-Tomcat" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />       
+<img align="center" alt=" Maria-JS" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 
 </div>
 
